@@ -1,6 +1,7 @@
-import React, { useEffect, useState } from "react"
+import React, { useEffect, useState } from "react";
 import defaultLessonDetails from "../lib/lessonPlanDummyData.js";
-import LessonDetailsForm from "@/components/LessonDetailsForm.jsx"
+import LessonDetailsForm from "@/components/LessonDetailsForm.jsx";
+
 import {
   GENERATED_LESSON_DETAILS_FORM_ENUM,
   INPUT_LESSON_DETAILS_FORM_ENUM,
