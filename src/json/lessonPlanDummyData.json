@@ -1,0 +1,54 @@
+{
+  "topic": "",
+  "date": "",
+  "subject": "",
+  "yearGroupOrGradeLevel": "",
+  "mainTopicOrUnit": "",
+  "subtopicsOrKeyConcepts": "",
+  "materialsNeeded": [
+    "Any objects for demonstrating concepts or conducting a classroom activity",
+    "You may also include references to be used for preparing the lesson",
+    "Add more here"
+  ],
+  "learningObjectives": [
+    "Include at least two outcomes to help set and manage expectations for you and your students. Identify various thinking skills - a mix of higher and lower based on Bloom's Taxonomy."
+  ],
+  "lessonOutline": [
+    {
+      "duration": "xx minutes",
+      "guide": "Springboard question or activity",
+      "remarks": "Add a reminder or personal prompts here"
+    },
+    {
+      "duration": "xx minutes",
+      "guide": "Introduction of a new topic or continuation of a previous lesson",
+      "remarks": ""
+    },
+    {
+      "duration": "xx minutes",
+      "guide": "Review of previous concepts (as needed)",
+      "remarks": ""
+    },
+    {
+      "duration": "xx minutes",
+      "guide": "Main Discussion",
+      "remarks": ""
+    },
+    {
+      "duration": "xx minutes",
+      "guide": "Independent or Guided Activities",
+      "remarks": ""
+    },
+    {
+      "duration": "xx minutes",
+      "guide": "Assessment or Evaluation",
+      "remarks": ""
+    },
+    {
+      "duration": "xx minutes",
+      "guide": "Others",
+      "remarks": ""
+    }
+  ],
+  "notes": "Include your pre-lesson reminders or post-discussion observations here"
+}
