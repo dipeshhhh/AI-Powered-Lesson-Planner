@@ -7,21 +7,21 @@ const lessonPlanDummyData = {
   "subtopicsOrKeyConcepts": "",
   "materialsNeeded": [
     {
-      "id": "0someuniquerandomId",
+      "id": "randomuniqueoutlineid1",
       "text": "Any objects for demonstrating concepts or conducting a classroom activity"
     },
     {
-      "id": "1someMaterialId",
+      "id": "randomuniqueoutlineid2",
       "text": "You may also include references to be used for preparing the lesson"
     }
   ],
   "learningObjectives": [
     {
-      "id": "someuniquerandomObjectiveId",
+      "id": "randomuniqueoutlineid1",
       "text": "Include at least two outcomes to help set and manage expectations for you and your students."
     },
     {
-      "id": "someuniquerandomObjectiveId2",
+      "id": "randomuniqueoutlineid2",
       "text": "Identify various thinking skills - a mix of higher and lower based on Bloom's Taxonomy."
     }
   ],
