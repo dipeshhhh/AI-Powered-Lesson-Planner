@@ -185,5 +185,5 @@ Ensure lesson objectives align with Bloom’s Taxonomy for balanced cognitive de
 Format the output for printing/PDF generation (react-to-print or jsPDF-friendly)
   `;
 
-  return {prompt, fallbackPrompt};
+  return { prompt, fallbackPrompt };
 }

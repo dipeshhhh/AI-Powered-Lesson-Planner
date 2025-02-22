@@ -11,7 +11,6 @@ export function LoginProvider({ children }) {
   const [loggedInUser, setLoggedInUser] = useState(getCurrentLoggedInUser());
 
   const authenticateUser = (email, password) => {
-    console.log(email, password)
     if (email !== "demouser" || password !== "demopass") { // for anything other than demouser and demopass
       return false
     }

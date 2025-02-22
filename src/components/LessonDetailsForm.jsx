@@ -435,7 +435,7 @@ export default function LessonDetailsForm({ lessonDetails, setLessonDetails, typ
           }
         </CardFooter>
       </Card>
-      <LessonPlannerPrint lessonDetails={lessonDetails} cRef={contentRef}/>
+      <LessonPlannerPrint lessonDetails={lessonDetails} cRef={contentRef} />
     </>
     // </div>
   )
