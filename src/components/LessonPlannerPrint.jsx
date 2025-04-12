@@ -7,7 +7,7 @@ import {
 
 export default function LessonPlannerPrint({ lessonDetails, cRef }) {
   return (
-    <Card className="w-full md:w-[75vw] py-[3rem] px-[2rem] z-[-1] absolute pointer-events-none" ref={cRef}>
+    <Card className="w-full py-[3rem] px-[2rem] z-[-2] absolute pointer-events-none shadow-none border-none overflow-hidden" ref={cRef}>
       <CardContent>
         <form>
           <div className="grid w-full items-center gap-4">

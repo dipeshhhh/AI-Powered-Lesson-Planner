@@ -235,7 +235,7 @@ export default function LessonDetailsForm({ lessonDetails, setLessonDetails, typ
   return (
     // <div className="flex flex-col items-center justify-center w-full p-4">
     <>
-      <Card className="w-full md:w-[75vw]">
+      <Card className="w-full md:w-[75vw] z-2">
         <CardHeader>
           <CardTitle>Lesson Plan Details</CardTitle>
           <CardDescription>Provide details to generate your lesson plan</CardDescription>
@@ -435,6 +435,7 @@ export default function LessonDetailsForm({ lessonDetails, setLessonDetails, typ
           }
         </CardFooter>
       </Card>
+      <div className="w-screen h-screen bg-white z-[-1] top-0 fixed" />
       <LessonPlannerPrint lessonDetails={lessonDetails} cRef={contentRef} />
     </>
     // </div>
